@@ -325,7 +325,8 @@ public class SimpleWatchFaceConfigurationActivity extends ActionBarActivity impl
 ```
 
 如果现在你就要在`穿戴`设备运行wear （穿戴）`模块`，然后是移动设备上的mobile（移动） 模块，导航到 `Android Wear`应用程序，你将能够访问activity组件的设置。
-![alt text](http://zippy.gfycat.com/UnawareDeterminedIndianhare.gif "Title")
+
+![alt text](../images/issue-146/8.1.gif)
 
 ## 发送数据到API的数据层
 

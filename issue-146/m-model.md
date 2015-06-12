@@ -4,13 +4,13 @@
 
 去年，Android Fragments遇到了很多麻烦，越来越多的开发者谈论他们遇到的问题，来自Square（一如既往）的伙计有一个解决方案——Flow和Mortar。今天我找到了我之前的评论“[Advocating Against Android Fragments](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html)”。
 
-![alt_text](images/7.1.png)
+![alt_text](../images/issue-146/7.1.png)
 
 我找到这篇评论是因为我看了Android周报的专栏：“[一项有关Flow和Mortar的调查](https://www.bignerdranch.com/blog/an-investigation-into-flow-and-mortar/)”。<p>
 我不想谈论[Flow](https://github.com/square/flow) 和[Mortar](https://github.com/square/mortar) （只是读了手册、专栏并尝试使用它们）。我想大家能注意到一个`非常小的事情`。
 
 这是来自Android周报专栏评论的图片：
-![alt_text](images/7.2.png)
+![alt_text](../images/issue-146/7.2.png)
 
 不幸的是，很多开发者确实看到这样的`模态`（Model） 层。
 

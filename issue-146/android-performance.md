@@ -6,7 +6,7 @@
 
 Joaquim使用了所有合适的工具，并能迅速排除那些没有产生问题的方面。例如，他发现过度拉大不是一个产生问题的原因。然而，他能够缩小问题到[ViewPager](http://developer.android.com/reference/android/support/v4/view/ViewPager.html)的使用方面。他发给我下面的截图：
 
-![alt text](images/9.1.png)
+![alt text](../images/issue-146/9.1.png)
 
 Joaquim使用系统屏幕上的GPU分析工具来检测帧率下降。左边的屏幕截图显示了没有ViewPager的滚动时间线性能，右边的截图显示了带有一个 ViewPager的性能（他使用2014 Moto X捕捉到这一数据）。产生问题的根本原因似乎很明显。
 
@@ -20,7 +20,7 @@ Joaquim使用系统屏幕上的GPU分析工具来检测帧率下降。左边的�
 
 在我仔细阅读了追踪收集到的Falcon Pro I滚动过程之后，我很惊讶地看到一系列块指令SaveLayer/ComposeLayer（点击图片看大图）：
 
-![alt text](images/9.2.png)
+![alt text](../images/issue-146/9.2.png)
 
 这些块表明了临时硬件层的创建和组成。这些临时层是由Canvas.saveLayer()的不同变体创建的。当满足特定条件时，UI工具包使用 Canvas.saveLayer() 绘制alpha < 1（见View.setAlpha()）的Views：
 
@@ -33,7 +33,7 @@ Chet和我在一些介绍中解释了“为什么你应该[慎重的使用alpha]
 
 因此，主要问题变成：是什么创造了这些临时层？Tracer 给我们提供了答案。如果你看一下Tracer的截图就可以发现，OpenGL操作的SaveLayer 组中唯一的绘图指令渲染的似乎是一个小渲染目标中的圆（使用工具放大的结果）。现在，让我们来看看应用程序的截图：
 
-![alt text](images/9.3.png)
+![alt text](../images/issue-146/9.3.png)
 
 你看到顶部这些小圆圈了吗？那是一个ViewPager 指针，用于显示用户的位置。Joaquim使用了第三方程序库（我不记得是哪一个了）来绘制这些指针。有趣的是这个程序库如何绘制了该指针：当前页是一个白色的圆圈表示，在其他页面似乎是一个灰色的圆圈。我说“这似乎是一个灰色的”，是因为这些圆圈其实是半透明的白色圆圈。这个程序库为每一个圆圈使用View（这本身就是浪费），并调用setAlpha()改变它们的颜色。
 
