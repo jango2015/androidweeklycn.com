@@ -5,78 +5,79 @@
 
 ## ARTICLES & TUTORIALS
 
-**[Yahnac: RxJava Meets Firebase & Content Providers](http://www.malmstein.com/blog/2015/03/28/introducing-yahnac-where-rxjava-meets-content-providers/)** (www.malmstein.com) 
-David Gonzalez has published as open source a new Hacker News client that showcases Material Design, RxJava and Firebase.
+**[Yahnac:RxJava Firebase&内容提供](http://www.malmstein.com/blog/2015/03/28/introducing-yahnac-where-rxjava-meets-content-providers/)** (www.malmstein.com) 
+大卫·冈萨雷斯发布了用于展示材料设计、RxJava和Firebase的全新黑客新闻客户端。
 
-**[Game Performance: Layout Qualifiers](http://android-developers.blogspot.com/2015/03/today-we-want-to-share-some-best.html)** (android-developers.blogspot.com) 
-This article shares some best practices on using the OpenGL Shading Language (GLSL) that can optimize the performance of your game and simplify your workflow.
+**[游戏性能:布局限定符](http://android-developers.blogspot.com/2015/03/today-we-want-to-share-some-best.html)** (android-developers.blogspot.com) 
+本文展示了使用OpenGL图形语言的成功实践，这些实例能够优化游戏性能并简化工作流。
 
-**[Stetho for Android debug builds only](http://littlerobots.nl/blog/stetho-for-android-debug-builds-only/)** (littlerobots.nl)   
-Recently, Facebook released a tool called Stetho, which let’s you inspect your Android app from the Chrome Developer tools. This short article shows how to enable it for debug builds. 
+**[仅用于Android调试的 Stetho](http://littlerobots.nl/blog/stetho-for-android-debug-builds-only/)** (littlerobots.nl)   
+最近Facebook发布了名为Stetho的工具，用于在谷歌开发工具中检测安卓应用程序。本文介绍了如何启用调试构建。
 
-**[Custom Color Spans](https://blog.stylingandroid.com/custom-colour-spans/)** (blog.stylingandroid.com)   
-In this article Mark Allison looks at how to roll your own Span implementations, and see how easy it can be to utilise these custom Spans.
+**[自定义颜色跨度](https://blog.stylingandroid.com/custom-colour-spans/)** (blog.stylingandroid.com)   
+Mark Allison介绍了如何实现跨度，同时展示了使用自定义跨度的简便性。
   
-**[Using the JobScheduler API on Android Lollipop](http://code.tutsplus.com/tutorials/using-the-jobscheduler-api-on-android-lollipop--cms-23562)** (code.tutsplus.com)   
-In this tutorial, you will learn how to use the JobScheduler API available in Android Lollipop. The JobScheduler API allows developers to create jobs that execute in the background when certain conditions are met. 
+**[在Android Lollipop上使用JobScheduler API](http://code.tutsplus.com/tutorials/using-the-jobscheduler-api-on-android-lollipop--cms-23562)** (code.tutsplus.com)   
+在本教程中,您将学习如何在安卓Lollipop中使用JobScheduler API。JobScheduler API可以创建后台任务,使得满足特定条件时能够在后台执行。
 
-**[The analytics checklist: what to measure and look for](http://cogitas.net/blog/2015/03/27/the-analytics-checklist-what-to-measure-and-look-for/)** (cogitas.net)   
-Analytics, in the general sense of collecting data on usage and errors, can help you understand both the pain points and the users of your app, allowing you to focus on removing roadblocks and serving your users’ needs better. 
+**[分析清单:测量和寻找哪些方面](http://cogitas.net/blog/2015/03/27/the-analytics-checklist-what-to-measure-and-look-for/)** (cogitas.net)   
+分析有助于理解难点和用户信息,从而专注于消除障碍并为用户提供更好的服务。
  
-**[M — Model from MVC/MVP in Android](https://medium.com/@artem_zin/m-model-from-mvc-mvp-in-android-flow-and-mortar-bd1e50c45395)** (medium.com)   
-This article presents another view of what Model (in Model-View-Presenter or Model-View-Controller patterns) should be.
+**[MVC / MVP中的M -模型 ](https://medium.com/@artem_zin/m-model-from-mvc-mvp-in-android-flow-and-mortar-bd1e50c45395)** (medium.com)   
+本文从另一角度解释了模型。
  
-**[Create a watch face with Android Wear API - Part 2 ](http://catinean.com/2015/03/28/creating-a-watch-face-with-android-wear-api-part-2/)** (catinean.com)   
-In this second article, Andrei Catinean shows how one can add a settings panel for a watchface in an Android Wear mobile application.
+**[使用安卓Wear API创建watchface——第2部分](http://catinean.com/2015/03/28/creating-a-watch-face-with-android-wear-api-part-2/)** (catinean.com)   
+在第二篇文章, Andrei Catinean展示了在安卓Wear应用程序中如何添加设置面板。
  
-**[Android Performance Case Study Follow-up](http://www.curious-creature.com/2015/03/25/android-performance-case-study-follow-up/)** (www.curious-creature.com)   
-Romain Guy follows up with more deep insight into optimizing for Android's UI rendering.
+**[安卓性能案例研究](http://www.curious-creature.com/2015/03/25/android-performance-case-study-follow-up/)** (www.curious-creature.com)   
+Romain Guy深入研究了Android UI呈现优化。
  
-**[Google Play Android Publisher Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Google+Play+Android+Publisher+Plugin)** (wiki.jenkins-ci.org)   
-Christopher Orr quietly released this Jenkins plugin last year that takes advantage of the Play store APIs for publishing apps.
+**[针对Jenkins的谷歌商店安卓出版插件](https://wiki.jenkins-ci.org/display/JENKINS/Google+Play+Android+Publisher+Plugin)** (wiki.jenkins-ci.org)   
+去年Christopher Orr发布了这款Jenkins插件,此插件使用存储API来发布应用程序。
 
 
-## SPONSORED
+## 赞助
 
-**[Free App Testing + Optimization for Android ](hhttps://software.intel.com/en-us/android/app-testing?utm_source=Android+Weekly&utm_medium=Banner+Ad&utm_campaign=Android+ASMO+Q2-15+Android+Weekly&utm_content=General+Developers+sponsored+post)** (software.intel.com)    
-Discover FREE app testing services available to test your apps created for Intel-based Android devices. Help your app perform its best. Click for details.
+**[免费Android应用程序测试+优化](hhttps://software.intel.com/en-us/android/app-testing?utm_source=Android+Weekly&utm_medium=Banner+Ad&utm_campaign=Android+ASMO+Q2-15+Android+Weekly&utm_content=General+Developers+sponsored+post)** (software.intel.com)    
+针对于基于英特尔处理器的Android设备，能够使用免费软件测试服务来测试应用程序。点击查看详情。
 
-## DESIGN
+## 设计
 
-**[A Beginner's Guide to Great Visual Design](http://www.willowtreeapps.com/blog/a-beginners-guide-to-great-visual-design-of-mobile-apps/)** (www.willowtreeapps.com)   
-This article goes over some basic tenets that make up the foundation of good design, drawing examples from the author's experience as a mobile UX Designer.
+**[视觉设计新手指南](http://www.willowtreeapps.com/blog/a-beginners-guide-to-great-visual-design-of-mobile-apps/)** (www.willowtreeapps.com)   
+本文运用基本原则来构成优秀设计的基础，示例来自作者从事移动用户设计师时的经历。
   
 
-## JOBS
+## 招聘
 
-**[Android Teacher](https://teamtreehouse.com/jobs/at-treehouse-ebed6e78-fc74-40f2-aad2-aee0fb682613)** (Anywhere in the US)   
-Treehouse is an educational technology company. As a teacher at Treehouse, you’ll join our amazing teaching team to create world class video-based learning material for students around the world.
+**[安卓讲师](https://teamtreehouse.com/jobs/at-treehouse-ebed6e78-fc74-40f2-aad2-aee0fb682613)** (Anywhere in the US)   
+Treehouse是一家教育科技公司。作为Treehouse的教师,加入我们狂热的教学团队创建世界一流的视频学习材料吧。
 
-**[Senior Android Engineer - PopJam](http://mindcandy.com/careers/open-roles?nl=1&jvi=obFI0fwi,Job&jvs=Android_Weekly)** (London, UK)       
-Mind Candy is looking for an exceptional Android Engineer to join the team building PopJam, the world's most exciting kids social networking app ever! You will lead the Android team, working closely with designers and senior management to create an amazing social creation app for kids!
+**[高级安卓工程师——PopJam](http://mindcandy.com/careers/open-roles?nl=1&jvi=obFI0fwi,Job&jvs=Android_Weekly)** (英国伦敦)       
+Mind Candy寻求优秀安卓工程师一同创建PopJam, PopJam是世界上最令人兴奋的儿童社交网络应用程序!你将领导整个Android团队,与设计师和高级管理人员密切合作,来创建奇妙的社交应用程序!
 
-**[Junior Android-Developer (m/w)](http://www.appcom-interactive.de/karriere/)** (Düsseldorf, Germany)       
-If developing is your passion and you are all about technological progress, we should meet. Be part of our exceptional team based in Düsseldorf, Germany! We offer you the opportunity to engage in exciting tasks, learn something new every day and just be exceptional.
+**[初级安卓开发人员](http://www.appcom-interactive.de/karriere/)** (德国)       
+如果你热爱开发，渴望获得进步，请联系我们。成为德国团队的成员吧！我们会为你提供学习成长的机会。
 
-**[Android Engineer - Storehouse](https://www.storehouse.co/jobs/android-developer)** (San Francisco, CA)       
-Storehouse is looking for a sharp, creative engineer to pioneer our Android efforts. You will lay the foundation for the project and decide how our app works in fundamental ways. Our team is small and you’ll play a key role in shaping our company, our product, and our culture.
-## LIBRARIES & CODE
+**[安卓工程师](https://www.storehouse.co/jobs/android-developer)** (旧金山,CA)       
+Storehouse寻求优秀安卓工程师。你会为项目奠定基础,从根本上决策程序工作方式。你会成为团队重要角色来共同塑造公司,产品和文化。
+
+## 库和代码
 
 **[Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)** (github.com)       
-The purpose of the project is to show a complex (at least in architecture) project entirely written using Kotlin
+此项目用于显示使用Kotlin编写的复杂项目。
 
 **[AirMapView](https://github.com/airbnb/AirMapView)** (github.com)       
-AirMapView is a view abstraction that enables interactive maps for devices with and without Google Play Services. It is built to support multiple native map providers including Google Maps V2 and soon Amazon Maps V2.
+AirMapView是一个抽象视图,使得拥有或没有谷歌商店服务的设备均可使用互动地图。它支持包括谷歌地图V2和亚马逊地图V2在内的多个本地地图提供商。
 
-**[Introducing Fresco: A new image library for Android](https://code.facebook.com/posts/366199913563917/introducing-fresco-a-new-image-library-for-android/)** (code.facebook.com)       
-What happens when your app runs out of memory due to many large bitmaps? It crashes. Facebook set out to solve this by creating a library we're calling Fresco — it manages images and the memory they use. Crashes begone.
+**[引入Fresco:Android全新图像库](https://code.facebook.com/posts/366199913563917/introducing-fresco-a-new-image-library-for-android/)** (code.facebook.com)       
+当应用程序由于许多大型位图而耗尽内存时会发生什么?程序会崩溃。Facebook通过创建称为Fresco的库来着手解决这一问题——它能够管理图片和相应内存。
 
-## TOOLS  
+## 工具 
 
-**[Color Themes & Fonts](http://www.ideacolorthemes.org/home/)** (InteliJ IDEA/Android Studio themes and fonts.)    
-InteliJ IDEA/Android Studio themes and fonts.
+**[颜色主题和字体](http://www.ideacolorthemes.org/home/)** (InteliJ IDEA/Android Studio themes and fonts.)    
+InteliJ IDEA/ Android工作室主题和字体。
 
-## VIDEOS 
+## 视频 
 
 **[The Making of Falcon Pro 3 by Joaquim Vergès](http://realm.io/news/joaquim-verges-making-falcon-pro-3/)** (realm.io)    
-Joaquim Vergès rewrote Falcon Pro 3 from scratch, and shares what he learned about some of the newest libraries available on Android, rendering at 60fps, making sure people pay for your app, seeding your beta, and much more.
+Joaquim Vergès重写Falcon Pro 3,同时分享了一些安卓可用开源库，可用于确保用户会为此应用程序付费等等。
