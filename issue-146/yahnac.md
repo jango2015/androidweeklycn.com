@@ -10,7 +10,7 @@
 
 如果你对`Yahnac`感兴趣,请继续阅读!
 
-![alttext](images/1.1.png)
+![alttext](../images/issue-146/1.1.png)
 
 ## A confession to make
 
@@ -38,18 +38,18 @@
 
 我对关于该UI和它在不同形式的因素中的样式有一些疑虑。在最开始的时候，我考虑使用Multi Pane，但是在使用了该应用一段时间后，我感觉有些地方不合理。
 
-![alttext](images/1.2.png)
+![alttext](../images/issue-146/1.2.png)
 
 
 在格局上，导览不是非常清晰，所以我决定使用一个类似于Etsy 的`Staggered Grid`制作比较流行的背景。
 
 
-![alttext](images/1.3.png)
+![alttext](../images/issue-146/1.3.png)
 
 
 同样，智能手机的用户界面将能够适应从一列变为两列的情况。
 
-![alttext](images/1.4.png)
+![alttext](../images/issue-146/1.4.png)
 
 
 ## 我们生活在一个物质的世界里
@@ -60,12 +60,12 @@
 
 然而，材料不仅仅是动画和颜色。也可以很方便地使用像`字体`、`空间`和`波动`等方面，形成一个很大的差异。
 
-![alttext](images/1.5.png)
+![alttext](../images/issue-146/1.5.png)
 
 
 另一个特点是，所有的材料应用表明目前是`快速返回模式`。这是一个不错的想法，使用滚动可以让用户享受到更多的内容。
 
-![alttext](images/1.6.gif)
+![alttext](../images/issue-146/1.6.gif)
 
 
 ## 还有更多内容即将到来
