@@ -1,3 +1,25 @@
+- [Issue #146](issue-146/index.md)
+
+  - [Yahnac:RxJava Firebase&内容提供](issue-146/yahnac.md)
+
+  - [游戏性能:布局限定符](issue-146/game-performance.md)
+
+  - [仅用于Android调试的 Stetho](issue-146/stetho-android-debug-builds-only.md) 
+
+  - [自定义颜色跨度](issue-146/custom-color-spans.md)
+  
+  - [在Android Lollipop上使用JobScheduler API](issue-146/using-jobscheduler.md) 
+
+  - [分析清单:测量和寻找哪些方面](issue-146/analytics-checklist.md) 
+ 
+  - [MVC / MVP中的M -模型](issue-146/m-model.md)
+ 
+  - [使用安卓Wear API创建watchface——第2部分 ](issue-146/create-watch.md)
+ 
+  - [安卓性能案例研究](issue-146/android-performance.md)
+ 
+  - [针对Jenkins的谷歌商店安卓出版插件](issue-146/google-play.md)
+
 - [Issue #145](issue-145/index.md)
  
   - [Android Material 支持库：Electric Boogaloo 的提示与技巧](issue-145/tips-and-tricks.md)
