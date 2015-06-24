@@ -49,7 +49,7 @@ Romain Guy深入研究了Android UI呈现优化。
 
 ## 招聘
 
-**[安卓讲师](https://teamtreehouse.com/jobs/at-treehouse-ebed6e78-fc74-40f2-aad2-aee0fb682613)** (Anywhere in the US)   
+**安卓讲师** (Anywhere in the US)   
 Treehouse是一家教育科技公司。作为Treehouse的教师,加入我们狂热的教学团队创建世界一流的视频学习材料吧。
 
 **[高级安卓工程师——PopJam](http://mindcandy.com/careers/open-roles?nl=1&jvi=obFI0fwi,Job&jvs=Android_Weekly)** (英国伦敦)       
