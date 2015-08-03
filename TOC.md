@@ -1,3 +1,7 @@
+- [Issue #160](issue-160/index.md)
+- [Issue #159](issue-159/index.md)
+- [Issue #158](issue-158/index.md)
+- [Issue #157](issue-157/index.md)
 - [Issue #156](issue-156/index.md)
 - [Issue #155](issue-155/index.md)
 - [Issue #154](issue-154/index.md)
