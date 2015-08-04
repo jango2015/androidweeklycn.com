@@ -3,6 +3,8 @@
 >
 原文链接：<http://androidweekly.net/issues/issue-148>
 
+[点击订阅邮箱](http://tinyletter.com/androidweeklycn)第一时间掌握 Android Weekly 中文版更新动态
+
 ## 条款 & 教程
 
 **[如何在一台安卓设备上安装不同的应用程序变异体](https://blog.grandcentrix.net/how-to-install-different-app-variants-on-one-android-device/)** (blog.grandcentrix.net)  

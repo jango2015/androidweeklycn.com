@@ -3,6 +3,8 @@
 >
 原文链接：<http://androidweekly.net/issues/issue-157>
 
+[点击订阅邮箱](http://tinyletter.com/androidweeklycn)第一时间掌握 Android Weekly 中文版更新动态
+
 ## 条款 & 教程
 
 **[安卓Kiosk模式：限制规则](http://cases.azoft.com/android-kiosk-mode-rules-restrictions/)** (blog.grandcentrix.net)  

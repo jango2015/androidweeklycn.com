@@ -3,6 +3,8 @@
 >
 原文链接：<http://androidweekly.net/issues/issue-155>
 
+[点击订阅邮箱](http://tinyletter.com/androidweeklycn)第一时间掌握 Android Weekly 中文版更新动态
+
 ## 文章 & 教程
 
 **[仅支持安卓系统](http://blog.jetbrains.com/kotlin/2015/04/announcing-anko-for-android/)** (alexzh.com)   

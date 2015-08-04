@@ -3,6 +3,8 @@
 >
 原文链接：<http://androidweekly.net/issues/issue-152>
 
+[点击订阅邮箱](http://tinyletter.com/androidweeklycn)第一时间掌握 Android Weekly 中文版更新动态
+
 ## 文章 & 教程
 
 **[LeakCanary: 检测所有的内存泄漏！](http://blog.jetbrains.com/kotlin/2015/04/announcing-anko-for-android/)** (alexzh.com)   
