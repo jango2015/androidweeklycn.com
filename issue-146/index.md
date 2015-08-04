@@ -3,6 +3,8 @@
 >
 原文链接：<http://androidweekly.net/issues/issue-146>
 
+[点击订阅邮箱](http://tinyletter.com/androidweeklycn)第一时间掌握 Android Weekly 中文版更新动态
+
 ## ARTICLES & TUTORIALS
 
 **[Yahnac:RxJava Firebase&内容提供](http://www.malmstein.com/blog/2015/03/28/introducing-yahnac-where-rxjava-meets-content-providers/)** (www.malmstein.com) 

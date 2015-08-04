@@ -3,6 +3,8 @@
 >
 原文链接：<http://androidweekly.net/issues/issue-147>
 
+[点击订阅邮箱](http://tinyletter.com/androidweeklycn)第一时间掌握 Android Weekly 中文版更新动态
+
 ## 文章 & 教程
 
 **[Dirty Phrasebook](https://blog.stylingandroid.com/dirty-phrasebook-part-1/)** (blog.stylingandroid.com)  

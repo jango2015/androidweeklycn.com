@@ -4,7 +4,9 @@ Android Weekly相当于是Android开发社区的实时通讯录，每周报导An
 
 Android Weekly 官网：<http://androidweekly.net/>
 
-|更新日期    |更新内容            |邮箱订阅
-|----------|-------------------|------|
-|2015-04-07|Issue#145 中文版发布 |[请点击](http://tinyletter.com/androidweeklycn)
+[点击订阅邮箱](http://tinyletter.com/androidweeklycn)第一时间掌握 Android Weekly 中文版更新动态
+
+|更新日期    |更新内容            
+|----------|-------------------
+|2015-04-07|Issue#145 中文版发布 
 

@@ -3,6 +3,8 @@
 >
 原文链接：<http://androidweekly.net/issues/issue-160>
 
+[点击订阅邮箱](http://tinyletter.com/androidweeklycn)第一时间掌握 Android Weekly 中文版更新动态
+
 ## 条款 & 教程
 
 **[使用基本代码为您的应用栏着色](https://plus.google.com/+AndroidDevelopers/posts/AV2ooBWY1iy)** (blog.grandcentrix.net)  
