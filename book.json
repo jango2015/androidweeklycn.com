@@ -1,9 +1,16 @@
 {
-    "gitbook": "2.x.x",
-    "title": "Android Weekly 中文版 - 同步翻译 androidweekly.net",
-    "plugins": [],
     "structure": {
         "summary": "TOC.md"
     },
-    "pluginsConfig": {}
+    
+    "plugins": ["baidu", "ga"],
+    
+    "pluginsConfig": {
+        "baidu": {
+            "token": "79d6b2a518888d0cdf1edf8e9670c212"
+        },
+        "ga": {
+            "token": "UA-66544989-1"
+        }
+    }
 }
