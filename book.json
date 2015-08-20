@@ -1,0 +1,9 @@
+{
+    "gitbook": "2.x.x",
+    "title": "Android Weekly 中文版 - 同步翻译 androidweekly.net",
+    "plugins": [],
+    "structure": {
+        "summary": "TOC.md"
+    },
+    "pluginsConfig": {}
+}
