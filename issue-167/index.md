@@ -15,7 +15,7 @@
 （ryanharter.com）  
 Ryan Harter 来自于咨询世界，在这里有一个共同的特性，就是让所有的事物都可以成为一个库。这里有几点建议可以帮助您决定是否让一个事物成为一个库。
 
-**[JR Raphael 认为 M 代表 Marshmallow](http://ryanharter.com/blog/2015/08/20/should-this-be-a-library/)**
+**[JR Raphael 认为 M 代表 Marshmallow](http://theblerg.net/podcast/11)**
 （theblerg.net）  
 Chris Lacy 和客人 JR Raphael 讨论了本周的所有信息。他们打破了 M 的官方名称，也讨论了该名称对未来的 Android 版本号和 logo 的潜在影响，当然也讨论了 M 更新的预览版本。
 
