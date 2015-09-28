@@ -60,7 +60,8 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 ## 设计
 
 **[星巴克 Android 材料设计](https://medium.com/android-news/starbucks-android-material-design-142e2c43feb )**
-（medium.com）  
+（medium.com）    
+
 星巴克数字产品为谷歌的新设计框架的演变。
 
 ## 工作
