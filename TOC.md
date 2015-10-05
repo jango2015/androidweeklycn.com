@@ -1,3 +1,4 @@
+- [Issue #173](issue-173/index.md)
 - [Issue #172](issue-172/index.md)
 - [Issue #171](issue-171/index.md)
 - [Issue #170](issue-170/index.md)
