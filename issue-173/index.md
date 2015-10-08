@@ -31,7 +31,7 @@ Android 6.0 棉花糖介绍了一种能让用户通过助理与应用程序交�
 （antonioleiva.com）  
 lambda 是实现譬如收集操作等功能的基础。Kotlin 提供了一系列十分厉害并且在使用不支持 lambda 语言的时候听起来不太可能(或很详细）实现的操作。
 
-**[纠正 Android 的方法限制第 1 部分](http://antonioleiva.com/collection-operations-kotlin/)**
+**[纠正 Android 的方法限制第 1 部分](https://developers.soundcloud.com/blog/congratulations-you-have-a-lot-of-code-remedying-androids-method-limit-part-1)**
 （antonioleiva.com）  
 Matthias Käppler 讲述了在应对 Android 方法限制的时候的一些细节，什么东西可以正常的工作，什么东西不能正常的工作。同时也讲了我们如何利用有关于大小的性质去提高应用程序的运行状况。
 
