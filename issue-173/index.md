@@ -105,7 +105,7 @@ NowSecure 是向公众开放源代的 Android 漏洞测试套件(安卓系统 VT
 
 **[Android Studio 1.4 ](http://android-developers.blogspot.com/2015/09/android-studio-14.html)**
 （android-developers.blogspot.com）  
-谷歌在 Android Studio 稳定释放通道发布了1.4更新版本。Android Studio 1.4 下大多数的工作是增强引擎盖，但还是有少数的新功能。
+谷歌在 Android Studio 稳定释放通道发布了1.4更新版本。尽管 Android Studio 1.4 下大多数工作和改进的具体内容还有待揭晓，不过可以肯定本次更新增加了少数新的功能。
 
 ## 视频和播客
 
