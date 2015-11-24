@@ -2,7 +2,9 @@
 >
 原文链接：<http://androidweekly.net/issues/issue-180>
 
-> [点击订阅邮箱](http://tinyletter.com/androidweeklycn)第一时间掌握 Android Weekly 中文版更新动态
+> [点击订阅邮箱](http://tinyletter.com/androidweeklycn)第一时间掌握 Android Weekly 中文版更新动态   
+
+> 本页面译文由极客学院Wiki翻译团队成员：[Titanjum](https://github.com/JungleTian) 独家提供
 
 ## 条款 & 教程
 
