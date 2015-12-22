@@ -9,6 +9,10 @@ Android Weekly 相当于是 Android 开发社区的实时通讯录，每周报�
 通过邮箱订阅，可以第一时间掌握 Android Weekly 中文版更新动态：       
 <http://tinyletter.com/androidweeklycn>
 
+## 商业合作
+
+商业合作请电邮：wiki@jikexueyuan.com
+
 |更新日期    |更新内容            
 |----------|-------------------
-|2015-12-15|Issue #183 中文版发布 
+|2015-12-22|Issue #184 中文版发布 
