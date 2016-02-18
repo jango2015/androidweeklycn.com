@@ -1,3 +1,6 @@
+- [Issue #192](issue-192/index.md)
+- [Issue #191](issue-191/index.md)
+- [Issue #190](issue-190/index.md)
 - [Issue #189](issue-189/index.md)
 - [Issue #188](issue-188/index.md)
 - [Issue #187](issue-187/index.md)
