@@ -9,7 +9,7 @@ Android Weekly 相当于是 Android 开发社区的实时通讯录，每周报�
 通过邮箱订阅，可以第一时间掌握 Android Weekly 中文版更新动态：       
 <http://tinyletter.com/androidweeklycn>
 
-<iframe height="600" allowTransparency="true" style="width:100%;border:none;overflow:auto;" frameborder="0" src="http://jikexueyuan.mikecrm.com/f.php?t=SOpnfy"></iframe>
+<a href="http://jikexueyuan.mikecrm.com/f.php?t=SOpnfy" style="position:fixed;z-index:999;right:-5px;bottom: 20px;display: inline-block;width: 20px;border-radius: 5px;color:white;font-size:14px;line-height:17px;background: #2476CE;box-shadow: 0 0 5px #666;word-wrap: break-word;padding: 10px 6px;border: 2px solid white;">查看表单</a>
 
 ## 商业合作
 
