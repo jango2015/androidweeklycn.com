@@ -9,7 +9,19 @@ Android Weekly 相当于是 Android 开发社区的实时通讯录，每周报�
 通过邮箱订阅，可以第一时间掌握 Android Weekly 中文版更新动态：       
 <http://tinyletter.com/androidweeklycn>
 
-<a href="http://jikexueyuan.mikecrm.com/f.php?t=SOpnfy" style="position:fixed;z-index:999;right:-5px;bottom: 20px;display: inline-block;width: 20px;border-radius: 5px;color:white;font-size:14px;line-height:17px;background: #2476CE;box-shadow: 0 0 5px #666;word-wrap: break-word;padding: 10px 6px;border: 2px solid white;">查看表单</a>
+## 公开课   
+
+
+![image](images/survey.jpg)
+
+>公开课时间： 2016.4.18 下午15:00    
+>公开课标题：《让你更关注工作的Gradle》   
+>公开课报名地址：[http://jikexueyuan.mikecrm.com/dvqzR3](http://jikexueyuan.mikecrm.com/dvqzR3)
+>报名福利：   
+ 1. 10门精品Android课程讲义PPT及源码   
+ 2. 5门精品Wiki PDF电子书  
+ 3. 金牌布道师推荐的Android学习书单   
+ 4. 随机选取20名同学发送极客学院30天VIP F码到手机
 
 ## 商业合作
 
